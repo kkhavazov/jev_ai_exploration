@@ -1,0 +1,149 @@
+[
+  {
+    "id": "78c139cd29c446b68b46f236d2661d5c",
+    "enabled": true,
+    "name": "Fiction",
+    "description": "Fiction that does not primarily belong to another defined genre. Includes literary fiction, contemporary fiction, realistic fiction, and general novels or short stories. Excludes historical fiction, fantasy, science fiction, mystery/thriller, and adventure when those genre elements are central.",
+    "threshold": null
+  },
+  {
+    "id": "dbf08621a60d4452b8e42e22024199bf",
+    "enabled": true,
+    "name": "Mystery",
+    "description": "Fiction centered on a crime, mystery, or investigation, where discovering the truth, identifying the culprit, or solving the case is a central element of the story. Includes detective fiction and traditional mystery novels.",
+    "threshold": null
+  },
+  {
+    "id": "0bd8752098fd47bbb481128fc4d01366",
+    "enabled": true,
+    "name": "Noir",
+    "description": "Crime fiction characterized by a dark, pessimistic, or morally ambiguous atmosphere, often focusing on criminals, corruption, violence, social decay, or flawed protagonists. The investigation itself does not need to be the primary focus.",
+    "threshold": null
+  },
+  {
+    "id": "ab71534e67b34f6ab8b7504e41600b67",
+    "enabled": true,
+    "name": "Fantasy",
+    "description": "Fiction involving magic, supernatural forces, mythical creatures, imaginary worlds, or other fantastical elements that are not primarily explained through science.",
+    "threshold": null
+  },
+  {
+    "id": "7dc2037aaedc4d4e8cadc6363edde945",
+    "enabled": true,
+    "name": "Science Fiction",
+    "description": "Fiction primarily based on science, technology, scientific speculation, space exploration, extraterrestrial life, artificial intelligence, time travel, or future technological and societal developments.",
+    "threshold": null
+  },
+  {
+    "id": "0faa5deab212457ba06200053b992358",
+    "enabled": true,
+    "name": "History",
+    "description": "Non-fiction about real historical events, periods, civilizations, people, wars, political developments, or social transformations. Excludes historical fiction and fictionalized accounts.",
+    "threshold": null
+  },
+  {
+    "id": "591b3657bada45c2965eeb02279f1608",
+    "enabled": true,
+    "name": "Biography",
+    "description": "Non-fiction focused on the life of a real person or group of people. Includes biographies, autobiographies, memoirs, diaries, and personal life accounts.",
+    "threshold": null
+  },
+  {
+    "id": "6df9e4a63fe04cbfb27d2755a71d59aa",
+    "enabled": true,
+    "name": "Science",
+    "description": "Non-fiction focused on scientific disciplines, scientific knowledge, theories, discoveries, or research. Includes physics, chemistry, biology, astronomy, mathematics, earth sciences, neuroscience, and general scientific education. Excludes books primarily focused on software, computing, artificial intelligence, or practical technology.",
+    "threshold": null
+  },
+  {
+    "id": "b7b3015d5bb3414e96c21b006c430e56",
+    "enabled": true,
+    "name": "Computing",
+    "description": "Books primarily focused on computing, software, programming, computer systems, operating systems, databases, networking, cybersecurity, algorithms, software engineering, or practical use of computer technology. Includes programming and technical reference books. Excludes books whose primary subject is artificial intelligence or machine learning.",
+    "threshold": null
+  },
+  {
+    "id": "05aa135db19d4f06af11a58d0a9b7fcf",
+    "enabled": true,
+    "name": "Artificial Intelligence",
+    "description": "Books primarily focused on artificial intelligence, machine learning, deep learning, neural networks, generative AI, large language models, computer vision, natural language processing, AI systems, or the development and practical application of AI technologies. Excludes general computer science books where AI is only a minor topic.",
+    "threshold": null
+  },
+  {
+    "id": "ef695aadf9b74621a1e718dbeae9110b",
+    "enabled": true,
+    "name": "Nonfiction",
+    "description": "Non-fiction works that primarily analyze, explain, discuss, or argue about subjects not covered by the more specific categories. Includes philosophy, politics, economics, sociology, psychology, religion, culture, society, current affairs, business, and general essays.",
+    "threshold": null
+  },
+  {
+    "id": "f08f6fb98c0c45b8a836299426f7ccac",
+    "enabled": true,
+    "name": "Extreme Horror",
+    "description": "Horror whose defining feature is sustained graphic violence, gore, cruelty, or deliberately shocking and transgressive content. Use when the intensity of disturbing content is central to the reading experience, rather than occasional violence in another horror subgenre.",
+    "threshold": null
+  },
+  {
+    "id": "217d16fa644b424b860854d86801be3c",
+    "enabled": true,
+    "name": "Body Horror",
+    "description": "Horror centered on disturbing physical transformation, mutation, infection, parasitism, bodily deterioration, or loss of control over the body. Use when bodily change or violation is the primary source of fear, rather than gore alone.",
+    "threshold": null
+  },
+  {
+    "id": "e3ea647f6d964d90bdb4f7828450604f",
+    "enabled": true,
+    "name": "Cosmic Horror",
+    "description": "Horror centered on humanity's insignificance before vast, incomprehensible forces or entities and the collapse of familiar reality. Includes forbidden knowledge and existential dread. Use when an unknowable universe is the main source of terror, rather than an ordinary monster or ghost.",
+    "threshold": null
+  },
+  {
+    "id": "701ff8d9cc104c68b64fa6001232025c",
+    "enabled": true,
+    "name": "Psychological Horror",
+    "description": "Horror driven primarily by paranoia, obsession, manipulation, distorted perception, or uncertainty about what is real. Use when the central fear comes from a character's inner experience or psychological destabilization, even if supernatural explanations remain possible.",
+    "threshold": null
+  },
+  {
+    "id": "04e47d5a22fd40f9b9cdf1a97722600d",
+    "enabled": true,
+    "name": "Gothic Horror",
+    "description": "Horror defined by an oppressive atmosphere, decaying estates or institutions, buried family secrets, inherited guilt, and the intrusion of the past into the present. Use when setting, isolation, and a haunting legacy drive the dread, rather than a historical setting alone.",
+    "threshold": null
+  },
+  {
+    "id": "d474253a2b744750a65e78b7d9aac16e",
+    "enabled": true,
+    "name": "Folk Horror",
+    "description": "Horror rooted in local folklore, rural isolation, ancestral customs, ritual traditions, or insular communities. Use when a community's beliefs and relationship to its landscape are central to the threat, rather than a generic supernatural presence.",
+    "threshold": null
+  },
+  {
+    "id": "c5ea268331e64d8aa677fe361dc814b0",
+    "enabled": true,
+    "name": "Supernatural Horror",
+    "description": "Horror primarily driven by ghosts, hauntings, curses, or other paranormal threats that do not fit a more specific horror category. Use when fear of a supernatural presence is central. Prefer Occult Horror when deliberate magical practice, demon summoning, or possession is the main focus.",
+    "threshold": null
+  },
+  {
+    "id": "367bb58fa5694bd28409a0a9cbb0f776",
+    "enabled": true,
+    "name": "Survival Horror",
+    "description": "Horror centered on vulnerable characters trying to escape, hide, or endure an immediate deadly threat with limited resources or help. Use when sustained pursuit, entrapment, and the struggle to stay alive dominate, rather than investigation or action adventure.",
+    "threshold": null
+  },
+  {
+    "id": "966c381f44dc436dbd6f4bf9b84e6607",
+    "enabled": true,
+    "name": "Creature Horror",
+    "description": "Horror centered on attacks by or encounters with a tangible nonhuman predator or monstrous species, such as vampires, werewolves, zombies, or other dangerous creatures. Use when the creature's presence and behavior drive the fear, rather than human bodily transformation or cosmic revelation.",
+    "threshold": null
+  },
+  {
+    "id": "fab59e796a924d50b8465212a2e08d3b",
+    "enabled": true,
+    "name": "Occult Horror",
+    "description": "Horror centered on forbidden rituals, demonology, possession, summoning, or the dangerous practice of magic. Use when intentional contact with sinister spiritual forces or its consequences drives the story, rather than a haunting without an occult practice or a community's folk traditions.",
+    "threshold": null
+  }
+]
